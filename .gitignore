@@ -1,0 +1,54 @@
+# =========================
+# Java (Core-Java, WebApp)
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+bin/
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# =========================
+# JSP / Servlet / Tomcat
+# =========================
+WebApp/build/
+WebApp/out/
+WebApp/.idea/
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+
+# =========================
+# OS specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# =========================
+# Node / frontend (if any)
+# =========================
+node_modules/
+
+# =========================
+# Secrets (VERY IMPORTANT)
+# =========================
+.env

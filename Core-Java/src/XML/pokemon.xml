@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pokemons>
+    <pokemon>
+        <id>1</id>
+        <name>Pikachu</name>
+        <type>Electric + Fairy</type>
+    </pokemon>
+    <pokemon>
+        <id>2</id>
+        <name>Charizard</name>
+        <type>Fire</type>
+    </pokemon>
+    <pokemon>
+        <id>3</id>
+        <name>Bulbasaur</name>
+        <type>Grass</type>
+    </pokemon>
+</pokemons>
